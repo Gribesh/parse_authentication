@@ -13,7 +13,9 @@ This is a simple android mobile application where a new user can create a new pr
 # Features
 ## Login: 
 Input: username , password (valid)
+
 Output: 
+
 	If credentials matches
 		Redirect to Home Page
 	Else
@@ -21,7 +23,9 @@ Output:
 
 ## SignUp:
 Input: username , password, confirm password
+
 Output:
+
 	If (username is unique) && (password is valid) && (password==confirm password)
 		Signup the user
 		Redirect to Home page
@@ -32,7 +36,9 @@ Output:
 
 ## Logout:
 Input: Press Logout from option menu
+
 Output: 
+
 	If there is current user
 		Logout
 		Redirect to login page
@@ -46,15 +52,15 @@ Output:
 		Hide password
 
 # Testing Result
-Username and password shouldn’t be blank.
-Passwords should meet the requirement.
-- Minimum 8 letters
-- At least 1 digit
-- At least 1 lower case letter  
-- At least 1 upper case letter
-- No white spaces
-- At least 1 special character
-- Password should match with confirm password.
+- Username and password shouldn’t be blank.
+- Passwords should meet the requirement.
+	- Minimum 8 letters
+	- At least 1 digit
+	- At least 1 lower case letter  
+	- At least 1 upper case letter
+	- No white spaces
+	- At least 1 special character
+	- Password should match with confirm password.
 
 
 # Conclusion
