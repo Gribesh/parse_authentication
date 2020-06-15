@@ -1,4 +1,4 @@
-# Assignment Documentation
+# Assignment Documentation 
 (Android App Development)
 
 # Objective:
@@ -60,7 +60,7 @@ Output:
 	- At least 1 upper case letter
 	- No white spaces
 	- At least 1 special character
-	- Password should match with confirm password.
+- Password should match with confirm password.
 
 
 # Conclusion
